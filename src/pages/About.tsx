@@ -130,7 +130,7 @@ export default function About() {
           <p className="text-xl mb-8">{t('about.cta.subtitle')}</p>
           <div className="flex justify-center space-x-4">
             <a 
-              href="tel:+40735576219"
+              href="tel:+40750492985"
               className="bg-white text-blue-600 px-8 py-3 rounded-full text-lg font-semibold hover:bg-gray-100 transition-colors"
             >
               {t('about.cta.call')}
