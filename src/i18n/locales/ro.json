@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "about": "Despre Noi",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transport Internațional România-Turcia",
+    "subtitle": "10 ani de experiență în transportul rutier internațional",
+    "cta": "Contactează-ne"
+  },
+  "fleet": {
+    "title": "Flotă Modernă DAF",
+    "subtitle": "Flota noastră modernă de camioane DAF asigură transport fiabil și eficient între România și Turcia",
+    "premium": {
+      "title": "Flotă Premium DAF",
+      "description": "Camioane de ultimă generație pentru performanță optimă"
+    },
+    "international": {
+      "title": "Transport Internațional",
+      "description": "Specializați pe rutele România-Turcia"
+    },
+    "extensive": {
+      "title": "Flotă Extinsă",
+      "description": "Multiple camioane pregătite pentru nevoile dvs. de transport"
+    },
+    "cta": "Vezi Serviciile Noastre"
+  },
+  "services": {
+    "title": "Serviciile Noastre",
+    "subtitle": "Oferim soluții complete de transport între România și Turcia, adaptate nevoilor dumneavoastră specifice",
+    "prelata": "Transport cu Prelată",
+    "ltl": "Transport Grupaj LTL",
+    "flatbed": "Transport Flatbed",
+    "vamal": "Servicii Vamale",
+    "description": {
+      "prelata": "Transport sigur și eficient cu prelată pentru mărfuri generale, oferind protecție completă și flexibilitate maximă.",
+      "ltl": "Soluții de transport grupaj rentabile pentru încărcături mai mici, optimizând spațiul și reducând costurile.",
+      "flatbed": "Soluții de transport pentru încărcături agabaritice și echipamente grele cu platforme speciale.",
+      "vamal": "Asistență completă în procesul de vămuire pentru importuri și exporturi între România și Turcia."
+    },
+    "features": {
+      "capacity": "Capacitate de încărcare",
+      "tracking": "Urmărire GPS",
+      "insurance": "Asigurare CMR",
+      "consolidation": "Consolidare încărcătură",
+      "adr": "Transport ADR",
+      "customs": "Documentație vamală"
+    },
+    "network": {
+      "title": "Rețeaua Noastră de Transport",
+      "subtitle": "Specializați în transportul rutier între România și Turcia, oferim:",
+      "delivery": "Livrare în 3-4 zile",
+      "coverage": "Acoperire națională în ambele țări",
+      "routes": "Rute optimizate și sigure"
+    },
+    "customSolution": {
+      "title": "Nevoie de o Soluție Personalizată?",
+      "description": "Echipa noastră de experți este pregătită să vă ajute cu orice cerință specială de transport",
+      "contact": "Contactează-ne",
+      "viewAll": "Vezi Toate Serviciile"
+    }
+  },
+  "contact": {
+    "title": "Contactează-ne",
+    "subtitle": "Suntem aici să vă ajutăm cu orice întrebare despre serviciile noastre de transport",
+    "name": "Nume",
+    "email": "Email",
+    "message": "Mesaj",
+    "send": "Trimite",
+    "whatsapp": "Contactează-ne pe WhatsApp",
+    "sending": "Se trimite...",
+    "success": "Mesajul a fost trimis cu succes!",
+    "error": "A apărut o eroare. Vă rugăm încercați din nou.",
+    "info": {
+      "title": "Informații de Contact",
+      "address": "Podu Turcului, Bacău, România • CUI: RO37786080"
+    }
+  },
+  "about": {
+    "hero": {
+      "subtitle": "Cu o experiență de peste 10 ani în transportul internațional, suntem partenerul de încredere pentru rutele România-Turcia"
+    },
+    "stats": {
+      "experience": "Ani de Experiență",
+      "countries": "Țări Deservite",
+      "clients": "Clienți Mulțumiți",
+      "deliveries": "Transporturi Realizate"
+    },
+    "values": {
+      "title": "Valorile Noastre",
+      "subtitle": "Principiile care ne ghidează în fiecare zi pentru a oferi servicii de calitate",
+      "safety": {
+        "title": "Siguranță și Conformitate",
+        "description": "Implementăm cele mai înalte standarde de siguranță în transport, respectând toate reglementările internaționale și asigurând integritatea mărfurilor în fiecare etapă."
+      },
+      "punctuality": {
+        "title": "Punctualitate și Eficiență",
+        "description": "Ne angajăm să livrăm la timp, optimizând rutele și procesele pentru a oferi servicii eficiente și predictibile, esențiale în lanțul de aprovizionare modern."
+      },
+      "dedication": {
+        "title": "Dedicare și Parteneriat",
+        "description": "Construim relații pe termen lung cu clienții noștri, oferind suport personalizat și adaptându-ne constant la nevoile lor în schimbare."
+      },
+      "expertise": {
+        "title": "Expertiză Internațională",
+        "description": "Cu o vastă experiență în transportul internațional, înțelegem complexitățile vamale și logistice, oferind soluții complete pentru provocările cross-border."
+      }
+    },
+    "clients": {
+      "title": "Clienții Noștri de Încredere",
+      "subtitle": "Colaborăm cu companii de top pentru a asigura servicii de transport de cea mai înaltă calitate",
+      "talay": {
+        "title": "TALAY LOGISTICS",
+        "description": "Partener strategic în Turcia pentru operațiuni de transport internațional"
+      },
+      "umb": {
+        "title": "UMB GROUP",
+        "description": "Colaborare în proiecte majore de infrastructură și construcții"
+      },
+      "kaufland": {
+        "title": "KAUFLAND ROMANIA",
+        "description": "Transport specializat pentru unul dintre cei mai mari retaileri din România"
+      }
+    },
+    "cta": {
+      "title": "Pregătiți să Colaborăm?",
+      "subtitle": "Contactați-ne pentru o ofertă personalizată pentru nevoile dvs. de transport",
+      "call": "Sunați Acum",
+      "email": "Trimiteți Email"
+    }
+  },
+  "social": {
+    "title": "Conectează-te cu Noi",
+    "subtitle": "Urmărește călătoria noastră prin România și Turcia. Primește actualizări în timp real, conținut din culise și informații din industrie.",
+    "linkedin": {
+      "title": "BC CARRIER pe LinkedIn",
+      "follow": "Urmărește-ne pe LinkedIn",
+      "description": "Urmărește-ne pe LinkedIn pentru noutăți din industrie, actualizări ale flotei și oportunități de colaborare",
+      "industry": "Industrie",
+      "industryValue": "Transport Rutier Internațional",
+      "size": "Mărime",
+      "sizeValue": "11-50 angajați",
+      "headquarters": "Sediu",
+      "headquartersValue": "Podu Turcului, România"
+    }
+  },
+  "cta": {
+    "title": "Gata de Transport?",
+    "subtitle": "Lasă-ne să ne ocupăm de nevoile tale de transport",
+    "button": "Cere o Ofertă"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "International Transport Romania-Turkey",
+    "subtitle": "10 years of experience in international road transport",
+    "cta": "Contact Us"
+  },
+  "fleet": {
+    "title": "Modern DAF Fleet",
+    "subtitle": "Our modern fleet of DAF trucks ensures reliable and efficient transportation between Romania and Turkey",
+    "premium": {
+      "title": "Premium DAF Fleet",
+      "description": "Latest generation trucks for optimal performance"
+    },
+    "international": {
+      "title": "International Transport",
+      "description": "Specialized in Romania-Turkey routes"
+    },
+    "extensive": {
+      "title": "Extensive Fleet",
+      "description": "Multiple trucks ready for your transportation needs"
+    },
+    "cta": "View Our Services"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We offer complete transport solutions between Romania and Turkey, tailored to your specific needs",
+    "prelata": "Tarpaulin Transport",
+    "ltl": "LTL Groupage Transport",
+    "flatbed": "Flatbed Transport",
+    "vamal": "Customs Services",
+    "description": {
+      "prelata": "Safe and efficient tarpaulin transport for general cargo, providing complete protection and maximum flexibility.",
+      "ltl": "Cost-effective groupage transport solutions for smaller shipments, optimizing space and reducing costs.",
+      "flatbed": "Transport solutions for oversized loads and heavy equipment with special platforms.",
+      "vamal": "Complete assistance in the customs clearance process for imports and exports between Romania and Turkey."
+    },
+    "features": {
+      "capacity": "Loading capacity",
+      "tracking": "GPS tracking",
+      "insurance": "CMR insurance",
+      "consolidation": "Load consolidation",
+      "adr": "ADR transport",
+      "customs": "Customs documentation"
+    },
+    "network": {
+      "title": "Our Transport Network",
+      "subtitle": "Specialized in road transport between Romania and Turkey, we offer:",
+      "delivery": "Delivery in 3-4 days",
+      "coverage": "National coverage in both countries",
+      "routes": "Optimized and safe routes"
+    },
+    "customSolution": {
+      "title": "Need a Custom Solution?",
+      "description": "Our team of experts is ready to help with any special transport requirements",
+      "contact": "Contact Us",
+      "viewAll": "View All Services"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help with any questions about our transport services",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "whatsapp": "Contact us on WhatsApp",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "An error occurred. Please try again.",
+    "info": {
+      "title": "Contact Information",
+      "address": "Podu Turcului, Bacău, Romania • VAT: RO37786080"
+    }
+  },
+  "about": {
+    "hero": {
+      "subtitle": "With over 10 years of experience in international transport, we are the trusted partner for Romania-Turkey routes"
+    },
+    "stats": {
+      "experience": "Years of Experience",
+      "countries": "Countries Served",
+      "clients": "Happy Clients",
+      "deliveries": "Deliveries Made"
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide us every day to provide quality services",
+      "safety": {
+        "title": "Safety and Compliance",
+        "description": "We implement the highest transport safety standards, complying with all international regulations and ensuring cargo integrity at every stage."
+      },
+      "punctuality": {
+        "title": "Punctuality and Efficiency",
+        "description": "We commit to on-time delivery, optimizing routes and processes to provide efficient and predictible services, essential in modern supply chain."
+      },
+      "dedication": {
+        "title": "Dedication and Partnership",
+        "description": "We build long-term relationships with our clients, providing personalized support and constantly adapting to their changing needs."
+      },
+      "expertise": {
+        "title": "International Expertise",
+        "description": "With vast experience in international transport, we understand customs and logistics complexities, providing complete solutions for cross-border challenges."
+      }
+    },
+    "clients": {
+      "title": "Our Trusted Clients",
+      "subtitle": "We collaborate with top companies to ensure the highest quality transport services",
+      "talay": {
+        "title": "TALAY LOGISTICS",
+        "description": "Strategic partner in Turkey for international transport operations"
+      },
+      "umb": {
+        "title": "UMB GROUP",
+        "description": "Collaboration in major infrastructure and construction projects"
+      },
+      "kaufland": {
+        "title": "KAUFLAND ROMANIA",
+        "description": "Specialized transport for one of Romania's largest retailers"
+      }
+    },
+    "cta": {
+      "title": "Ready to Collaborate?",
+      "subtitle": "Contact us for a personalized quote for your transport needs",
+      "call": "Call Now",
+      "email": "Send Email"
+    }
+  },
+  "social": {
+    "title": "Connect with Us",
+    "subtitle": "Follow our journey across Romania and Turkey. Get real-time updates, behind-the-scenes content, and industry insights.",
+    "linkedin": {
+      "title": "BC CARRIER on LinkedIn",
+      "follow": "Follow Us on LinkedIn",
+      "description": "Follow us on LinkedIn for industry news, fleet updates, and collaboration opportunities",
+      "industry": "Industry",
+      "industryValue": "International Road Transport",
+      "size": "Size",
+      "sizeValue": "11-50 employees",
+      "headquarters": "Headquarters",
+      "headquartersValue": "Podu Turcului, Romania"
+    }
+  },
+  "cta": {
+    "title": "Ready to Ship?",
+    "subtitle": "Let us handle your transportation needs",
+    "button": "Get a Quote"
+  }
+}

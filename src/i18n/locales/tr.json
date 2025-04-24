@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Romanya-Türkiye Uluslararası Taşımacılık",
+    "subtitle": "Uluslararası karayolu taşımacılığında 10 yıllık deneyim",
+    "cta": "Bize Ulaşın"
+  },
+  "fleet": {
+    "title": "Modern DAF Filosu",
+    "subtitle": "Modern DAF kamyon filomuz, Romanya ve Türkiye arasında güvenilir ve verimli taşımacılık sağlar",
+    "premium": {
+      "title": "Premium DAF Filosu",
+      "description": "Optimal performans için son nesil kamyonlar"
+    },
+    "international": {
+      "title": "Uluslararası Taşımacılık",
+      "description": "Romanya-Türkiye rotalarında uzmanlaşmış"
+    },
+    "extensive": {
+      "title": "Geniş Filo",
+      "description": "Taşımacılık ihtiyaçlarınız için hazır çoklu kamyonlar"
+    },
+    "cta": "Hizmetlerimizi Görün"
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Romanya ve Türkiye arasında, özel ihtiyaçlarınıza uyarlanmış eksiksiz taşımacılık çözümleri sunuyoruz",
+    "prelata": "Branda Taşımacılığı",
+    "ltl": "LTL Parsiyel Taşımacılık",
+    "flatbed": "Flatbed Taşımacılığı",
+    "vamal": "Gümrük Hizmetleri",
+    "description": {
+      "prelata": "Genel kargo için güvenli ve verimli branda taşımacılığı, tam koruma ve maksimum esneklik sağlar.",
+      "ltl": "Küçük sevkiyatlar için uygun maliyetli parsiyel taşımacılık çözümleri, alanı optimize eder ve maliyetleri düşürür.",
+      "flatbed": "Özel platformlarla aşırı boyutlu yükler ve ağır ekipman için taşıma çözümleri.",
+      "vamal": "Romanya ve Türkiye arasındaki ithalat ve ihracat için eksiksiz gümrük işlemleri desteği."
+    },
+    "features": {
+      "capacity": "Yükleme kapasitesi",
+      "tracking": "GPS takibi",
+      "insurance": "CMR sigortası",
+      "consolidation": "Yük konsolidasyonu",
+      "adr": "ADR taşımacılığı",
+      "customs": "Gümrük belgeleri"
+    },
+    "network": {
+      "title": "Taşımacılık Ağımız",
+      "subtitle": "Romanya ve Türkiye arasında karayolu taşımacılığında uzmanlaşmış olarak sunduğumuz hizmetler:",
+      "delivery": "3-4 günde teslimat",
+      "coverage": "Her iki ülkede ulusal kapsama",
+      "routes": "Optimize edilmiş ve güvenli rotalar"
+    },
+    "customSolution": {
+      "title": "Özel Çözüme mi İhtiyacınız Var?",
+      "description": "Uzman ekibimiz, özel taşımacılık gereksinimleriniz için yardıma hazır",
+      "contact": "Bize Ulaşın",
+      "viewAll": "Tüm Hizmetleri Gör"
+    }
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Taşımacılık hizmetlerimiz hakkında her türlü sorunuz için buradayız",
+    "name": "İsim",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "send": "Gönder",
+    "whatsapp": "WhatsApp ile iletişime geçin",
+    "sending": "Gönderiliyor...",
+    "success": "Mesajınız başarıyla gönderildi!",
+    "error": "Bir hata oluştu. Lütfen tekrar deneyin.",
+    "info": {
+      "title": "İletişim Bilgileri",
+      "address": "Podu Turcului, Bacău, Romanya • Vergi No: RO37786080"
+    }
+  },
+  "about": {
+    "hero": {
+      "subtitle": "Uluslararası taşımacılıkta 10 yılı aşkın deneyimimizle Romanya-Türkiye rotalarında güvenilir ortağınız"
+    },
+    "stats": {
+      "experience": "Yıllık Deneyim",
+      "countries": "Hizmet Verilen Ülke",
+      "clients": "Mutlu Müşteri",
+      "deliveries": "Tamamlanan Taşıma"
+    },
+    "values": {
+      "title": "Değerlerimiz",
+      "subtitle": "Kaliteli hizmet sunmak için bizi her gün yönlendiren ilkeler",
+      "safety": {
+        "title": "Güvenlik ve Uyumluluk",
+        "description": "En yüksek taşımacılık güvenlik standartlarını uyguluyoruz, tüm uluslararası düzenlemelere uyuyor ve kargo bütünlüğünü her aşamada sağlıyoruz."
+      },
+      "punctuality": {
+        "title": "Dakiklik ve Verimlilik",
+        "description": "Zamanında teslimat için söz veriyoruz, modern tedarik zincirinde önemli olan verimli ve öngörülebilir hizmetler sunmak için rotaları ve süreçleri optimize ediyoruz."
+      },
+      "dedication": {
+        "title": "Adanmışlık ve Ortaklık",
+        "description": "Müşterilerimizle uzun vadeli ilişkiler kuruyor, kişiselleştirilmiş destek sunuyor ve değişen ihtiyaçlarına sürekli adapte oluyoruz."
+      },
+      "expertise": {
+        "title": "Uluslararası Uzmanlık",
+        "description": "Uluslararası taşımacılıkta geniş deneyimimizle, gümrük ve lojistik karmaşıklıklarını anlıyor, sınır ötesi zorluklar için eksiksiz çözümler sunuyoruz."
+      }
+    },
+    "clients": {
+      "title": "Güvenilir Müşterilerimiz",
+      "subtitle": "En yüksek kalitede taşımacılık hizmetleri sağlamak için önde gelen şirketlerle çalışıyoruz",
+      "talay": {
+        "title": "TALAY LOGISTICS",
+        "description": "Uluslararası taşımacılık operasyonları için Türkiye'deki stratejik ortağımız"
+      },
+      "umb": {
+        "title": "UMB GROUP",
+        "description": "Büyük altyapı ve inşaat projelerinde işbirliği"
+      },
+      "kaufland": {
+        "title": "KAUFLAND ROMANIA",
+        "description": "Romanya'nın en büyük perakendecilerinden biri için özel taşımacılık"
+      }
+    },
+    "cta": {
+      "title": "İşbirliğine Hazır mısınız?",
+      "subtitle": "Taşımacılık ihtiyaçlarınız için kişiselleştirilmiş teklif almak üzere bize ulaşın",
+      "call": "Hemen Arayın",
+      "email": "E-posta Gönderin"
+    }
+  },
+  "social": {
+    "title": "Bizimle Bağlantıda Kalın",
+    "subtitle": "Romanya ve Türkiye'deki yolculuğumuzu takip edin. Gerçek zamanlı güncellemeler, perde arkası içerik ve sektör bilgileri alın.",
+    "linkedin": {
+      "title": "LinkedIn'de BC CARRIER",
+      "follow": "LinkedIn'de Bizi Takip Edin",
+      "description": "Sektör haberleri, filo güncellemeleri ve işbirliği fırsatları için bizi LinkedIn'de takip edin",
+      "industry": "Sektör",
+      "industryValue": "Uluslararası Karayolu Taşımacılığı",
+      "size": "Büyüklük",
+      "sizeValue": "11-50 çalışan",
+      "headquarters": "Merkez",
+      "headquartersValue": "Podu Turcului, Romanya"
+    }
+  },
+  "cta": {
+    "title": "Taşımaya Hazır mısınız?",
+    "subtitle": "Taşımacılık ihtiyaçlarınızı bize bırakın",
+    "button": "Teklif Alın"
+  }
+}
