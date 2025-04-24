@@ -35,7 +35,7 @@ export default function Contact() {
   };
 
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/40735576219', '_blank');
+    window.open('https://wa.me/40750492985', '_blank');
   };
 
   return (
